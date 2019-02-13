@@ -1,4 +1,6 @@
 # pra_2019_02_13<br>
+
+
 <h1>Ploymorphism</h1>
 Ploymorphismについて勉強しました。<br>
 <br>
